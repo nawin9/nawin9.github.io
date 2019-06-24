@@ -2,6 +2,7 @@
 
 ### TODO
 
+-   [x] Styled components
 -   [ ] CI CD
 -   [ ] Localization
 -   [ ] Firebase Integration
