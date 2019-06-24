@@ -1,7 +1,7 @@
-Personal website built with Nextjs
+# Personal website built with Nextjs
 
-\*\* TODO
+### TODO
 
-[ ] CI CD
-[ ] Localization
-[ ] Firebase Integration
+-   [ ] CI CD
+-   [ ] Localization
+-   [ ] Firebase Integration
